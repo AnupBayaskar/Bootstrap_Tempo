@@ -1,5 +1,5 @@
 .bg_img {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/anup/Tempo/assets/img/hero-bg.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(./anup/Tempo/assets/img/hero-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -12,13 +12,13 @@
 
 
 .head {
-    margin-top: 10%;
+    margin-top: 18%;
 }
 
 .head h4 {
     border-radius: 50px;
     background-color: rgba(252, 252, 252, 0.1);
-    width: 250px;
+    width:
     margin-left: 40%;
     padding: 8px 10px;
 }
@@ -59,7 +59,7 @@
     padding: 30px 60px;
 }
 .call_action{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/anup/Tempo/assets/img/cta-bg.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(./anup/Tempo/assets/img/cta-bg.jpg);
     height: 250px;
     background-repeat: no-repeat;
     background-size: cover;
